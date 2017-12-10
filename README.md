@@ -19,4 +19,5 @@ How to
   dependencies {
 	        compile 'com.github.wangzaizhou:progressbarlibrary:v1.0'
 	}
-	```
+	
+```

@@ -24,3 +24,14 @@ How to
 	}
 	
 ```
+
+# 在你的代码中添加
+```
+	PgDialog pd=PgDialog.newInstance(context);
+	if(!pd.isShowing()){
+		pd.show("正在下载中...");
+	  	pd.setData(10);//百分比
+	}
+	 
+	   pd.dismiss();
+```

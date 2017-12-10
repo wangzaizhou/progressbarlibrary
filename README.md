@@ -8,7 +8,9 @@ How to
 # gradle:
  ## Step 1 Add it in your root build.gradle at the end of repositories:
  ### 第一步：将maven { url 'https://jitpack.io' }加入的你项目根目录的build.gradle
-  ```
+ 
+  
+ ```
  allprojects {
 		repositories {
 			
@@ -20,7 +22,8 @@ How to
   
  ## Step 2. Add the dependency
  ### 第二步：添加依赖
-``` 
+ 
+ ``` 
   dependencies {
 	        compile 'com.github.wangzaizhou:progressbarlibrary:v1.0'
 	}

@@ -1,7 +1,7 @@
 # progressbarlibrary
 -安卓loading加载框。
 
-![](http://m.qpic.cn/psb?/V13m9niH1maXkM/WprHkb2H4F7E3b7FfzXjC3i54P.SNTYe4Iwul0SIuXU!/c/dPMAAAAAAAAA&bo=XAFJAgAAAAACBzU!&rf=viewer_4) 
+![](http://a1.qpic.cn/psb?/V13m9niH1maXkM/IcdbB40pW29PrBBhjJBF.mZ0xJOhFBeMIN2GxYq9H.4!/b/dPMAAAAAAAAA&bo=XAFJAgAAAAACwPI!&rf=viewer_4) 
 
 How to
 

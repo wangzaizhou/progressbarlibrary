@@ -34,9 +34,9 @@ How to
 ```
 	PgDialog pd=PgDialog.newInstance(context);
 	if(!pd.isShowing()){
-		pd.show("正在下载中...");
+		pd.show("正在下载中...");//显示加载框
 	  	pd.setData(10);//百分比
 	}
 	 
-	   pd.dismiss();
+	   pd.dismiss();//取消加载框
 ```

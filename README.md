@@ -1,5 +1,6 @@
 # progressbarlibrary
-安卓loading加载框。
+-安卓loading加载框。
+![](http://www.baidu.com/img/bdlogo.gif) 
 How to
 
 # gradle:
